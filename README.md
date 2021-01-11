@@ -16,7 +16,7 @@ en place des boucles qui se répète tant que l'utilisateur n'a pas demandé à 
 
 
 #### Ce que l'on peut faire :
-Il est possible de réserver une ou plusieurs places au choix, sauf si celle-ci est déjà réservée. A la fin de la réservation, le client reçoit son numéro de dossier qui lui permettra d'annuler sa réservation si il fournit son nom et ce numéro.
+Après consultation des places disponibles, il est possible de réserver une ou plusieurs places au choix, sauf si celle-ci est déjà réservée. A la fin de la réservation, le client reçoit son numéro de dossier qui lui permettra d'annuler sa réservation si il fournit son nom et ce numéro.
 
 ### Compiler :
 se placer dans les bons dossiers puis : 
